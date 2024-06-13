@@ -18,7 +18,6 @@
   ```bash
   python main.py
 
-
 ## Files
 * scrape_jobs.py: Contains the function to scrape job listings from LinkedIn.
 * visualize_jobs.py: Contains the function to visualize the job data.
