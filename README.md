@@ -7,7 +7,6 @@
   git clone https://github.com/ShubhamM3958/Job-Scaper.git
   cd Job-Scraper
 
-
 * Install the dependencies:
  ```bash
   pip install -r requirements.txt
